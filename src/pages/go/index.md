@@ -30,3 +30,15 @@ alloy dev
 4. Visit website at `http://localhost:1212`
 
 *Alloy uses Node, NPM, and Webpack*
+
+## Hello, World!
+An example of Go code syntax for "Hello, World" is:
+```go
+package main
+
+import "fmt"
+
+func main() {
+    fmt.Println("hello world")
+}
+```
