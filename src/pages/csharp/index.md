@@ -22,6 +22,25 @@ C# is an object-oriented language while also providing support for component-ori
 
 You can use C# to create Windows client applications, XML Web services, distributed components, client-server applications, database applications, and much more.
 
+## Hello,World!
+An example of C# code syntax for "Hello, World" is:
+```csharp
+using System;
+using System.Collections.Generic;
+using System.Text;
+
+namespace ConsoleApplication1
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.WriteLine("Hello, world!");
+            Console.ReadLine();
+        }
+    }
+}
+```
 
 #### More Information:
 * [Introduction to C#](https://docs.microsoft.com/en-us/dotnet/csharp/getting-started/introduction-to-the-csharp-language-and-the-net-framework)
