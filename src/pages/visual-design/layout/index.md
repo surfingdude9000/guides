@@ -2,14 +2,23 @@
 title: Layout
 ---
 ## Layout
+The page layout of a website is the visual arrangement and composition of elements on that page.
+Common layouts could be arranged to contain a header, main content, side content, and a footer.
+Websites can use some common examples such as 1-column layout, 2-column layout, or a mix of different styles. 
 
-This is a stub. <a href='https://github.com/freecodecamp/guides/tree/master/src/pages/visual-design/layout/index.md' target='_blank' rel='nofollow'>Help our community expand it</a>.
+The header has common website information for site name, logo, navigation system. The main content element has content such as text, pictures, video, or etc. The side content can contain information for the page or an alternative navigation system. The footer has less prominent information such as contact info or legal notices.
 
-<a href='https://github.com/freecodecamp/guides/blob/master/README.md' target='_blank' rel='nofollow'>This quick style guide will help ensure your pull request gets accepted</a>.
-
-<!-- The article goes here, in GitHub-flavored Markdown. Feel free to add YouTube videos, images, and CodePen/JSBin embeds  -->
+Layouts can be adjusted by:
+* the size of page margins
+* size and positions of images and figures
+* placement of whitespace
+* number and size of columns
 
 #### More Information:
-<!-- Please add any articles you think might be helpful to read before writing the article -->
+Web layouts: [Web layouts] (https://developer.mozilla.org/en-US/docs/Learn/Common_questions/Common_web_layouts)
+Perfect Website Layout: [Crerativebloq] (http://www.creativebloq.com/web-design/steps-perfect-website-layout-812625)
+HTML Layout: [W3Schools] (https://www.w3schools.com/html/html_layout.asp) 
+
+
 
 
